@@ -13,19 +13,19 @@
         },
         {
           "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/assets/img/technologies/angular.png"
+          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/assets/img/technologies/angular.png"
         },
         {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/assets/img/technologies/react.png"
+          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/assets/img/technologies/react.png"
         },
         {
             "name": "Java",
-            "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/assets/img/technologies/java.png"
+            "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/assets/img/technologies/java.png"
         },
         {
           "name": "Github",
-          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/assets/img/technologies/github.png"
+          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/assets/img/technologies/github.png"
         }
       ],
       "softSkills": [
