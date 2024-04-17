@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio - Carlos Thompson</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+      integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="./assets/css/global.css" />
+    <link rel="stylesheet" href="./assets/css/header.css" />
+    <link rel="stylesheet" href="./assets/css/acordeon.css" />
+    <link rel="stylesheet" href="./assets/css/languages.css" />
+    <link rel="stylesheet" href="./assets/css/portfolio.css" />
+    <link rel="stylesheet" href="./assets/css/experience.css" />
+    <link rel="stylesheet" href="./assets/css/skills.css" />
+  </head>
+  <body>
+    <div class="main">
+      <header class="header">
+        <img
+          src="https://avatars.githubusercontent.com/u/33129027?v=4"
+          alt="Profile photo"
+          class="photo profile.photo"
+        />
+
+        <h1 class="title">
+          Hi,<br />
+          I am <span class="profile.name">Loading...</span>
+        </h1>
+
+        <div class="information">
+          <p class="job"><span class="profile.job">Loading...</span></p>
+          <p class="location"><span class="profile.location">Loading...</span></p>
+          <p class="linkedin">
+            <a
+              href="https://www.linkedin.com/in/thompson-carlos/"
+              target="_blank"
+              class="profile.linkedin"
+              >Loading...</a
+            >
+          </p>
+          <p class="github">
+            <a 
+              href="https://github.com/thompsoncarlos" 
+              target="_blank" 
+              class="profile.github">Loading...</a
+            >
+          </p>
+        </div>
+      </header>
+
+      <section class="acordeon open">
+        <button class="trigger" type="button">
+            <h2>Skills</h2>
+        </button>
+
+        <div class="content">
+            <div class="skills">
+                <section class="hardSkills">
+                    <h3>Technologies:</h3>
+                    <ul>
+                        <li><img src="/assets/img/icons/tools/javascript.svg" alt="javascript logo" title="Javascript"></li>
+                        <li><img src="/assets/img/icons/tools/angular.svg" alt="angular logo" title="Angular"></li>
+                        <li><img src="/assets/img/icons/tools/react.svg" alt="react logo" title="React"></li>
+                        <li><img src="/assets/img/icons/tools/java.svg" alt="java logo" title="Java"></li>
+                        <li><img src="/assets/img/icons/tools/git.svg" alt="git logo" title="Git"></li>
+                    </ul>
+                </section>
+                <section class="personal">
+                    <h3>Soft Skills:</h3>
+                    <ul>
+                        <li>Good Communication</li>
+                        <li>Team Work</li>
+                        <li>Organized</li>
+                    </ul>
+                </section>
+            </div>
+        </div>
+      </section>
+
+      <section class="acordeon open">
+        <button class="trigger" type="button">
+            <h2>Languages</h2>
+        </button>
+
+        <div class="content">
+          <ul class="languages">
+            <li>Portuguese</li>
+            <li>English</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="acordeon open">
+        <button class="trigger" type="button">
+            <h2>Portfolio</h2>
+        </button>
+
+        <div class="content">
+          <ul class="portfolio">
+            <li>
+              <h3 class="title github">Criando um App de lembrete</h3>
+              <a href="www.google.com" target="_blank">www.google.com</a>
+            </li>
+            <li>
+              <h3 class="title github">Criando um App de lembrete</h3>
+              <a href="www.google.com" target="_blank">www.google.com</a>
+            </li>
+            <li>
+              <h3 class="title github">Criando um App de lembrete</h3>
+              <a href="www.google.com" target="_blank">www.google.com</a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="acordeon open">
+        <button class="trigger" type="button">
+            <h2>Experience</h2>
+        </button>
+
+        <div class="content">
+          <ul class="experience">
+            <li>
+              <h3 class="title"></p>
+                Full Stack Developer / Critical Software
+              </p>
+              <p class="period">January 2022 – March 2024</p>
+              <p>
+                As a Fullstack developer responsible for designing solutions,
+                maintenance, test automation in Manufacturing Execution Systems
+                (MES) platform with Frontend Developer Certification.
+              </p>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+    <script src="/assets/js/acordeon.js"></script>
+    <script src="/assets/js/api.js"></script>
+    <script src="/assets/js/main.js"></script>
+  </body>
+</html>
