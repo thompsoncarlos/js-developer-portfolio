@@ -36,18 +36,28 @@
       ]
     },
     "languages": [
-      "Português (Native)",
-      "Inglês (intermediário)"
+      "Portuguese (Native)",
+      "English (Intermediate)"
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/thompsoncarlos/js-developer-pokedex",
+        "name": "Santander Dev Week Angular - Tela Inicial App Santander",
+        "url": "https://santander-dev-week-angular-home.vercel.app/",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/thompsoncarlos/js-developer-portfolio",
+        "name": "Trilha Formação Javascript Developer - Pokedex API com HTML, CSS e JS",
+        "url": "https://trilha-js-developer-pokedex.vercel.app/",
+        "github": true
+      },
+      {
+        "name": "Curso Contribuindo em um Projeto Open Source no GitHub",
+        "url": "https://github.com/thompsoncarlos/dio-lab-open-source",
+        "github": true
+      },
+      {
+        "name": "Trilha Formação HTML 5 - Criaçáo de um Website de uma Clínica Médica",
+        "url": "https://thompsoncarlos.github.io/trilha-html-modulo-2/contato.html",
         "github": true
       }
     ],
