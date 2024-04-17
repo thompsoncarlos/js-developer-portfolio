@@ -1,5 +1,5 @@
 {
-    "name": "Carlos Thompson",
+    "name": "Carlos Eduardo da S. Thompson",
     "photo": "https://avatars.githubusercontent.com/u/33129027?v=4",
     "job": "Full Stack Developer",
     "location": "Porto - Portugal",
@@ -8,31 +8,31 @@
     "skills": {
       "hardSkills": [
         {
+          "name": "Javascript",
+          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/assets/img/technologies/js.png"
+        },
+        {
           "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/data/imgs/angular.png"
+          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/assets/img/technologies/angular.png"
         },
         {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/data/imgs/react.png"
+          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/assets/img/technologies/react.png"
         },
         {
             "name": "Java",
-            "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/data/imgs/java.png"
+            "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/assets/img/technologies/java.png"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/data/imgs/mongodb.png"
-        },
-        {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "name": "Github",
+          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/assets/img/technologies/github.png"
         }
       ],
       "softSkills": [
-        "Empatia",
-        "Liderança",
-        "Trabalho em equipe",
-        "Organização"
+        "Team Work",
+        "Good Communication",
+        "Organized",
+        "Disciplined"
       ]
     },
     "languages": [
