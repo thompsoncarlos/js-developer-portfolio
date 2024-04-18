@@ -57,25 +57,25 @@
       },
       {
         "name": "Trilha Formação HTML 5 - Criaçáo de um Website de uma Clínica Médica",
-        "url": "https://thompsoncarlos.github.io/trilha-html-modulo-2/contato.html",
+        "url": "https://thompsoncarlos.github.io/trilha-html-modulo-2/index.html",
         "github": true
       }
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "Software Engineer / Critical Software",
+        "period": "January 2022 – March 2024",
+        "description": "As a Fullstack developer responsible for designing solutions, maintenance test automation in Manufacturing Execution Systems (MES) platform with Frontend Developer Certification."
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "name": "IT Consultant / QuickOps Consulting",
+        "period": "June 2021 - December 2021",
+        "description": "As a technical consultant developing of a mockup application frontend with JavaScript and Oracle JavaScript Extension Toolkit (JET), support Oracle ADF applications with database objects, code review in Java, test execution for the client Retail Consult."
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "IT Consultant / Altran ",
+        "period": "Oct 2020 - Apr 2021",
+        "description": "As a technical consultant developing Oracle ADF applications, JSP, Struts and Oracle database for the client SPMS, it is a public enterprise is the Health Ministry‘s central purchasing and IT authority."
       }
     ]
   }
