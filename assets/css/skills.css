@@ -20,7 +20,7 @@
     margin: 0 .5rem;
 }
 
-.skills .softkills ul {
+.skills .softSkills ul {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -30,7 +30,7 @@
     padding: 0;
 }
 
-.skills .softkills ul li{ 
+.skills .softSkills ul li{ 
     margin-left: 2rem;
     padding: .5rem;
 }

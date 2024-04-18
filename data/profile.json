@@ -63,19 +63,49 @@
     ],
     "professionalExperience": [
       {
-        "name": "Software Engineer / Critical Software",
+        "name": "Software Engineer - Critical Software",
         "period": "January 2022 – March 2024",
         "description": "As a Fullstack developer responsible for designing solutions, maintenance test automation in Manufacturing Execution Systems (MES) platform with Frontend Developer Certification."
       },
       {
-        "name": "IT Consultant / QuickOps Consulting",
+        "name": "IT Consultant - QuickOps Consulting",
         "period": "June 2021 - December 2021",
         "description": "As a technical consultant developing of a mockup application frontend with JavaScript and Oracle JavaScript Extension Toolkit (JET), support Oracle ADF applications with database objects, code review in Java, test execution for the client Retail Consult."
       },
       {
-        "name": "IT Consultant / Altran ",
-        "period": "Oct 2020 - Apr 2021",
+        "name": "IT Consultant - Altran ",
+        "period": "October 2020 - April 2021",
         "description": "As a technical consultant developing Oracle ADF applications, JSP, Struts and Oracle database for the client SPMS, it is a public enterprise is the Health Ministry‘s central purchasing and IT authority."
+      },
+      {
+        "name": "Software Engineer - Aubay ",
+        "period": "July 2019 - February 2020",
+        "description": "As a Software Engineer working in the software development team, in an agile context, for embedded systems, with analysis and specification of requirements, code review and test execution, for the client Critical Software in the Bombardier Transportation project, interacting with engineering teams from Germany."
+      },
+      {
+        "name": "Lieutenant Junior Grade – Naval Reserve ",
+        "period": "May 2015 - May 2019",
+        "description": "As an advisor to the project manager for the Brazilian Naval War College, maintaining and training the team, end users with the creation of manuals, videos, process mapping and developing a website to centralize knowledge."
+      },
+      {
+        "name": "System Analyst – CASNAV ",
+        "period": "November 2012 - February 2015",
+        "description": "As a Systems Analyst conducting the requirements survey, analysis, specification, validation and track requirements, with Java application and data modeling in the NATO standard - JC3IEDM, code review and test execution, for the client Ministry of Defense."
+      },
+      {
+        "name": "IT Specialist – Prefeitura Municipal de São Gonçalo",
+        "period": "October 2011 - October 2012",
+        "description": "As a Technologist supporting internal ERP system and electronic invoice issue system, report generation through SQL queries and requirements survey and specification. Technologies and Tools: Firebird SQL."
+      },
+      {
+        "name": "System Analyst – CASNAV ",
+        "period": "January 2010 - September 2011",
+        "description": "As Systems Analyst conducting the requirements survey, analysis, specification and validation using the IDE Enterprise Architect to create, manage and track requirements, using Java language and data modeling in the NATO standard - JC3IEDM."
+      },
+      {
+        "name": "System Analyst – Nexo CS ",
+        "period": "June 2008 - May 2009",
+        "description": "As Systems Analyst providing technical support; analysis, test plan generation, creation and execution test cases; creation technical documentation: manuals, system help and preparation of training videos, for the Nexo CS Health and Safety Project."
       }
     ]
   }
