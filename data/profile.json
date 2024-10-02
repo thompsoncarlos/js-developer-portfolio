@@ -16,10 +16,6 @@
           "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/assets/img/technologies/angular.png"
         },
         {
-          "name": "React",
-          "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/assets/img/technologies/react.png"
-        },
-        {
             "name": "Java",
             "logo": "https://raw.githubusercontent.com/thompsoncarlos/js-developer-portfolio/main/assets/img/technologies/java.png"
         },
@@ -41,22 +37,27 @@
     ],
     "portfolio": [
       {
-        "name": "Santander Dev Week Angular - Tela Inicial App Santander",
+        "name": "Tela Inicial App Santander | Santander Dev Week Angular",
         "url": "https://santander-dev-week-angular-home.vercel.app/",
         "github": true
       },
       {
-        "name": "Trilha Formação Javascript Developer - Pokedex API com HTML, CSS e JS",
-        "url": "https://trilha-js-developer-pokedex.vercel.app/",
+        "name": "Thompson Blog | Trilha Formação Angular",
+        "url": "https://thompsoncarlos.github.io/angular-blog/",
         "github": true
       },
       {
-        "name": "Curso Contribuindo em um Projeto Open Source no GitHub",
-        "url": "https://github.com/thompsoncarlos/dio-lab-open-source",
+        "name": "Clone do Playstation Store | Trilha Formação Angular",
+        "url": "https://thompsoncarlos.github.io/angular-psn-store-clone/",
         "github": true
       },
       {
-        "name": "Trilha Formação HTML 5 - Criaçáo de um Website de uma Clínica Médica",
+        "name": "Buzzfeed | Trilha Formação Angular",
+        "url": "https://thompsoncarlos.github.io/angular-buzzfeed/",
+        "github": true
+      },
+      {
+        "name": "Website Clínica Médica | Trilha Formação HTML5 ",
         "url": "https://thompsoncarlos.github.io/trilha-html-modulo-2/index.html",
         "github": true
       }
